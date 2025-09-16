@@ -12,3 +12,4 @@
 - Mostra o histórico de commits git log
 
 - Momento do Caos fazer um conflito
+- Oi Meu Bem, voce é incrivel, sempre lembre-se disso <3
